@@ -1,0 +1,9 @@
+[run]
+omit =
+    */migrations/*
+    */__init__.py
+    to_do_project/*
+
+[report]
+exclude_lines =
+    pragma: no cover

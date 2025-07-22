@@ -1,0 +1,8 @@
+tox
+pytest
+pytest-django
+coverage
+black
+isort
+mypy
+django-stubs
